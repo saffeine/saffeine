@@ -11,5 +11,5 @@ read my bio to see what i'm about.
 ◈ neural network.  
 ◈ shared accommodation solution.   
 ◇ small roguelike dungeon crawler.  
-◇ sonic the hedgehog engine.
+◇ sonic the hedgehog engine.  
 ◇ commercial game project.
