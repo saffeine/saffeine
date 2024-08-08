@@ -1,6 +1,7 @@
 ## What's up?
 nothing to see here, for now.  
-read my bio to see what i'm about.
+read my bio to see what i'm about.  
+full portfolio pending. hang in there.
 
 &nbsp;
 
