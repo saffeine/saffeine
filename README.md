@@ -11,7 +11,7 @@ full portfolio pending. hang in there. <br>
 ### Project Roadmap
 
 <sub>projects listed are ideas, not guaranteed to see the light of day.</sub> <br>
-<sub>◇ &nbsp; :- &nbsp; planned. &nbsp;&nbsp; | &nbsp;&nbsp; ◈ &nbsp; :- &nbsp; in progress. &nbsp;&nbsp; | &nbsp;&nbsp; ◆ &nbsp; :- &nbsp; complete.</sub></span> <br>
+<sub>◇ &nbsp; :- &nbsp; planned. &nbsp;&nbsp; |&nbsp;&nbsp; ◈ &nbsp; :- &nbsp; in progress. &nbsp;&nbsp; |&nbsp;&nbsp; ◆ &nbsp; :- &nbsp; complete.</sub></span> <br>
 
 ◆ :- pseudo-perlin noise. <br>
 ◈ :- neural network. <br>
