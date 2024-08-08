@@ -1,16 +1,21 @@
 ## What's up?
-nothing to see here, for now.  
-read my bio to see what i'm about.  
-full portfolio pending. hang in there.
 
-&nbsp;
+<sub>
+nothing to see here, for now. <br>
+read my bio to see what i'm about. <br>
+full portfolio pending. hang in there. <br>
+</sub>
+
+<br>
 
 ### Project Roadmap
-◇ :- planned. | ◈ :- in progress. | ◆ :- complete.
 
-◆ pseudo-perlin noise.  
-◈ neural network.  
-◈ shared accommodation solution.   
-◇ small roguelike dungeon crawler.  
-◇ sonic the hedgehog engine.  
-◇ commercial game project.
+<sub>projects listed are ideas, not guaranteed to see the light of day.</sub> <br>
+<sub>&nbsp;◇ &nbsp; :- &nbsp; planned. &nbsp;&nbsp; | &nbsp;&nbsp; ◈ &nbsp; :- &nbsp; in progress. &nbsp;&nbsp; | &nbsp;&nbsp; ◆ &nbsp; :- &nbsp; complete.</sub></span> <br>
+
+◆ :- pseudo-perlin noise. <br>
+◈ :- neural network. <br>
+◈ :- shared accommodation solution. <br>
+◇ :- small roguelike dungeon crawler. <br>
+◇ :- sonic the hedgehog engine. <br>
+◇ :- commercial game project. <br>
