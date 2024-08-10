@@ -16,7 +16,13 @@ full portfolio pending. hang in there. <br>
 ◆ :- pseudo-perlin noise. <br>
 ◈ :- neural network. <br>
 ◈ :- web-based shared accommodation solution. <br>
+◇ :- commercial game project. <br>
+
+<sub>
+<b>Low Priority</b> <br>
 ◇ :- small roguelike dungeon crawler. <br>
 ◇ :- sonic the hedgehog engine. <br>
 ◇ :- falling sand / simulated particle engine. <br>
-◇ :- commercial game project. <br>
+◇ :- pocket potion brewing tycoon. <br>
+◇ :- pocket trading card game. <br>
+</sub>
