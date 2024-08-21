@@ -14,12 +14,13 @@ full portfolio pending. hang in there. <br>
 <sub>◇ &nbsp; :- &nbsp; planned. &nbsp;&nbsp; |&nbsp;&nbsp; ◈ &nbsp; :- &nbsp; in progress. &nbsp;&nbsp; |&nbsp;&nbsp; ◆ &nbsp; :- &nbsp; complete.</sub></span> <br>
 
 ◆ :- pseudo-perlin noise. <br>
-◈ :- neural network. <br>
+◈ :- web-based chat client (nodejs). <br>
 ◈ :- web-based shared accommodation solution. <br>
 ◇ :- commercial game project. <br>
 
 <sub>
 <b>Low Priority</b> <br>
+◇ :- neural network. (attempted, put on hold). <br>
 ◇ :- small roguelike dungeon crawler. <br>
 ◇ :- sonic the hedgehog engine. <br>
 ◇ :- falling sand / simulated particle engine. <br>
