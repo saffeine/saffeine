@@ -14,9 +14,8 @@ full portfolio pending. hang in there. <br>
 <sub>◇ &nbsp; :- &nbsp; planned. &nbsp;&nbsp; |&nbsp;&nbsp; ◈ &nbsp; :- &nbsp; in progress. &nbsp;&nbsp; |&nbsp;&nbsp; ◆ &nbsp; :- &nbsp; complete.</sub></span> <br>
 
 ◆ :- pseudo-perlin noise. <br>
-◈ :- web-based chat client (nodejs). <br>
-◈ :- web-based shared accommodation solution. <br>
-◇ :- commercial game project. <br>
+◈ :- commercial game project. <br>
+◇ :- web-based shared accommodation solution. <br>
 
 <sub>
 <b>Low Priority</b> <br>
